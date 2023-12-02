@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mryan-3
-- 👀 I’m interested in Learning new stuff 
-- 🌱 I’m a node js dev
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Learning new stuff
+- - 🌱 I’m a backend developer
+  - Currently learning GO
+- 💞️ I’m looking to collaborat
 
 
 <!---
