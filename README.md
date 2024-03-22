@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Supabase](Supabase)
 
-- 💬 Ask me about **node js, express**
+- 💬 Ask me about **node js, express, fastify, nest, mongo, supabase**
 
 - 📫 How to reach me **malawaryan@gmail.com**
 
