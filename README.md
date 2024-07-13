@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ryan Malawa</h1>
-<h3 align="center">A solution driven software developer from Nairobi</h3>
+<h3 align="center">A solution driven software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mryan-3&label=Profile%20views&color=0e75b6&style=flat" alt="mryan-3" /> </p>
+
 
 - 🌱 I’m currently learning **Golang, Ruby on Rails, Elixir and DevOps**
 
 - 📝 I regularly write articles on [Supabase](Supabase)
 
-- 💬 Ask me about **node js, express, fastify, nest, mongo, supabase**
+- 💬 Ask me about **node js, express, fastify, nest, mongo, supabase, go**
 
 - 📫 How to reach me **malawaryan@gmail.com**
 
-- ⚡ Fun fact **I love professional wrestling.**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryan-malawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-malawa" height="30" width="40" /></a>
