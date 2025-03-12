@@ -4,6 +4,8 @@
 
 
 - 📫 How to reach me **malawaryan@gmail.com**
+- Tech Stack Javacript, Typescript, Golang, Python
+- Interests: Mobile App Development Using React Native, Desktop App Development
 
   
 <h3 align="left">Connect with me:</h3>
